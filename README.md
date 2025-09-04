@@ -1,7 +1,8 @@
 # 📊 Sentiment Analysis  
 
 This project is an implementation of **Optimization of Sentiment Analysis on Mobile Fashion Retail App Reviews** using a **Hybrid Model (Naïve Bayes + SVM)** approach.
-The pipeline includes preprocessing, model training, evaluation, and the creation of a **Streamlit**-based interactive application for data analysis and visualization testing.  
+The pipeline includes preprocessing, model training, evaluation, and the creation of a **Streamlit**-based interactive application for data analysis and visualization testing.
+
 ---
 
 ## 📂 Project Structure
