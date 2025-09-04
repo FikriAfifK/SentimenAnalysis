@@ -1,8 +1,7 @@
 # 📊 Sentiment Analysis  
 
-Proyek ini merupakan implementasi **Optimasi Analisis Sentimen Ulasan Mobile Fashion Retail App ** menggunakan pendekatan **Hybrid Model (Naïve Bayes + SVM)**.  
-Pipeline mencakup preprocessing, pelatihan model, evaluasi, hingga pembuatan aplikasi interaktif berbasis **Streamlit** untuk uji analisis dan visualisasi data.  
-
+This project is an implementation of **Optimization of Sentiment Analysis on Mobile Fashion Retail App Reviews** using a **Hybrid Model (Naïve Bayes + SVM)** approach.
+The pipeline includes preprocessing, model training, evaluation, and the creation of a **Streamlit**-based interactive application for data analysis and visualization testing.  
 ---
 
 ## 📂 Project Structure
@@ -21,14 +20,14 @@ SentimenAnalysis/
    git clone https://github.com/FikriAfifK/SentimenAnalysis.git
    cd SentimenAnalysis
 
-2. Jalankan Streamlit App
+2. Run Streamlit App
    ```bash
    streamlit run app.py
 
 ## 🛠 Features
-- Data Preprocessing: pembersihan teks, tokenisasi, stopword removal, stemming.
-- Model Training: eksperimen dengan Naïve Bayes, SVM, serta Hybrid Model.
+- Data Preprocessing: text cleaning, tokenization, stopword removal, stemming.
+- Model Training: experiments with Naïve Bayes, SVM, and Hybrid Model.
 - Streamlit App:
-  - Processing Data → menampilkan hasil preprocessing dataset.
-  - Uji Analisis → input teks ulasan untuk diprediksi sentimennya.
-  - Visualisasi Data → grafik distribusi sentimen & insight lainnya.
+  - Data Processing → displays the results of dataset preprocessing.
+  - Analysis Test → input review text to predict its sentiment.
+  - Data Visualization → sentiment distribution graph & other insights.
